@@ -1,0 +1,9 @@
+# Environnement Python
+.venv/
+__pycache__/
+
+# Base de données ChromaDB
+data/
+
+# Dossier pour tes images de test (chiens/chats)
+images_test/
